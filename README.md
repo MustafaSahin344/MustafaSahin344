@@ -1,12 +1,24 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate software developer</h3>
 -🔭 I am currently working in the industry.
+
+
 -👨‍💻 I am studying Computer Programming
+
+
 -🤝 I’m looking for help with
+
+
 -🌱I developer projects with React, Javascript & React
+
+
 -💬 Ask me about React JS,React Native,Javascript
+
+
 -📝  I love learning new things and software
-- 📫 How to reach me [mustafashn2002@gmail.com](mustafashn2002@gmail.com)
+
+
+- 📫 How to reach me mustafashn2002@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
